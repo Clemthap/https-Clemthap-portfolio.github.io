@@ -2,7 +2,7 @@
 Welcome to the repository for my personal portfolio website. This project serves as my online resume, a showcase of my work, and a central hub for my professional presence on the web.
 
 🌐 Live Demo
-https://yourusername.github.io (Replace with your actual URL)
+https://Clemthap.github.io (Replace with your actual URL)
 
 📝 Description
 This is a modern, responsive personal website built from scratch using pure HTML, CSS, and JavaScript. No frameworks or libraries were used, keeping the site lightweight, fast, and easy to customize.
